@@ -22,8 +22,8 @@ A organização do seu código. Lembre-se de que, mesmo sem schema, é important
 
 ## Requisitos
 
-<img src="">
-<img src="">
+<img src="https://raw.githubusercontent.com/willianAD/Project-Commerce/main/image/Projeto%20CommerceI.png">
+<img src="https://raw.githubusercontent.com/willianAD/Project-Commerce/main/image/Projeto%20CommerceII.png">
 
 
 # Requisitos Obrigatórios
@@ -93,7 +93,6 @@ Para isso, escreva no arquivo `desafio13.js` duas queries, **nesta ordem**:
 - Para isso, escreva a query no arquivo `desafio14.js`
 - Sua query deve retornar apenas os campos `nome`, `ingredientes` e `valoresNutricionais`.
 
-👀**De olho na dica**: para realizar esse requisito, explore a implementação do `$slice`através do conteúdo [desse link](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/94d0e996-1827-4fbc-bc24-c99fb592925b/section/d2b16462-a889-47fc-aa04-92517825b186/day/9aa9cc0e-6e53-4986-a5fe-7b93df92375f/lesson/df071bd5-6d59-499f-a8e2-3859d1529710) 
 
 ### 15 - Adicione o campo `avaliacao` em todos os documentos da coleção e efetue alterações nesse campo
 
@@ -102,7 +101,6 @@ Para isso, escreva no arquivo `desafio15.js` quatro queries, **nesta ordem**:
 1. Crie uma query que inclua o campo `avaliacao` do tipo `NumberInt`, com o valor `0` em todos os documentos da coleção.
 
 2. Crie uma query que incremente o valor do campo `avaliacao` em `5` em todos os sanduíches de carne do tipo `bovino`. 
-👀**De olho na dica**: utilize como filtro o campo `tags`.
 
 3. Crie uma query que incremente o valor do campo `avaliacao` em `3` em todos os sanduíches de `ave`.
 
